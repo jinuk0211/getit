@@ -1,4 +1,7 @@
 취미메이트'는 경북대 재학생을 대상으로 한 실시간 즉흥 모임 매칭 서비스로, 현재 핵심 사용자 흐름(회원가입 → 모임 탐색 → 개설 → 실시간 참여 매칭 → 오픈채팅 자동 연결)을 모바일 웹앱 형태의 MVP로 직접 개발하여 검증하였다. 별도의 앱 설치 없이 모바일 브라우저에서 즉시 접근할 수 있으며, 실제 사용자가 서비스를 이용하는 흐름은 다음과 같다.
+<img width="780" height="1688" alt="image" src="https://github.com/user-attachments/assets/63a32110-c074-4c2c-a4c3-7d0f48a5aafe" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/26bf220d-229f-4b13-8d7b-d88a117e9b61" />
+
 <img width="1910" height="953" alt="image" src="https://github.com/user-attachments/assets/28b94f0a-a9b2-4ee0-a590-067e7fb32c46" />
 1) 회원가입 · 학교 인증 — 신뢰 기반 커뮤니티의 출발점
 [스크린샷 ① 회원가입 화면]
