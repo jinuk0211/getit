@@ -1,10 +1,10 @@
-취미메이트'는 경북대 재학생을 대상으로 한 실시간 취미기반 모임 매칭 서비스로, 현재 핵심 사용자 흐름(회원가입 → 모임 탐색 → 개설 → 실시간 참여 매칭 → 오픈채팅 자동 연결)을 모바일 웹 형태로 구현할 계획인데, 실제 사용자가 서비스를 이용하는 흐름은 다음과 같다.
+취미메이트'는 경북대 재학생을 대상으로 한 실시간 취미기반 모임 매칭 서비스로, 현재 핵심 사용자 흐름(회원가입 → 모임 탐색 → 개설 → 실시간 참여 매칭 → 오픈채팅 자동 연결)을 모바일 웹 형태로 구현할 계획인데, 실제 사용자가 서비스를 이용하는 흐름은 다음과 같다. 접속하면 볼 수 있는 랜딩페이지를 기반으로 해서 여러기능을 사용할 수 있도록 할 계획인데 이제 
 <img width="778" height="1436" alt="image" src="https://github.com/user-attachments/assets/b2ce16e1-fd5e-4987-aa08-10c34775ef41" />
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/26bf220d-229f-4b13-8d7b-d88a117e9b61" />
 
 <img width="1910" height="953" alt="image" src="https://github.com/user-attachments/assets/28b94f0a-a9b2-4ee0-a590-067e7fb32c46" />
 1) 회원가입 · 학교 인증 — 신뢰 기반 커뮤니티의 출발점
-[스크린샷 ① 회원가입 화면]
+
 사용자는 경북대 학번과 학교 이메일(@knu.ac.kr)로만 가입할 수 있으며, 학번·닉네임 중복 확인 절차를 거친다. 학교 이메일 인증을 통해 재학생 여부를 검증함으로써, 기존 익명 오픈채팅방의 한계였던 '책임지지 않는 익명성' 문제를 입구 단계에서부터 차단하고 신뢰 기반 커뮤니티의 토대를 마련한다.
 <img width="602" height="695" alt="image" src="https://github.com/user-attachments/assets/c8fa4466-987d-4ebd-887f-fe3d6b6aa9b9" />
 2) 홈 피드 — 태그 기반 실시간 모임 탐색
